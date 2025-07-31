@@ -1,5 +1,19 @@
 ## Hello! I'am  Andreia Aparecida, Python Developer!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
+
+---
+
+# 👋 Salve Devs !
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba. </br>
+Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos interessantes e explorar diferentes tecnologias.
+
+
+
+---
 
   <div align="center">
   <a href="https://github.com/Andreia Aparecida">
