@@ -8,8 +8,8 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Meu nome é Ricardo Rodrigues Lima, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, trabalho como professor no SENAI ensinando Python para adolescentes do ensino médio em Santana de Parnaíba. </br>
-Com mais de 5 anos de experiência na área de TI, tive a oportunidade de trabalhar em diversos projetos interessantes e explorar diferentes tecnologias.
+Meu nome é Andreia,Empreendedora apaixonada por inovação e tecnologia | Transformando ideias em negócios de impacto | Focada em soluções criativas para desafios reais | Compartilhando projetos, aprendizados e colaborações | 🚀 #Inovação #Liderança #Tecnologia
+
 
 
 
