@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Salve Devs !
+# 👋 Salve  !
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
@@ -40,5 +40,7 @@ Meu nome é Andreia,Empreendedora apaixonada por inovação e tecnologia | Trans
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreiaAparecida/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+
 
 
